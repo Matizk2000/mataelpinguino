@@ -1,0 +1,13 @@
+div {
+    width: 500px;
+    height: 500px;
+    background-color: yellowgreen;
+    text-align: center;
+    line-height: 500px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.btn {
+    margin: 20px;
+}
